@@ -25,6 +25,8 @@ This project uses Python and MongoDB to manage animal shelter records. For this 
 
 [View Enhancement One](Enhancement-One/)
 
+[Read Enhancement One Narrative](Enhancement-One/EXACT-NARRATIVE-ONE-FILENAME.pdf)
+
 ### Enhancement Two: Algorithms and Data Structures
 
 **CS 300 Course Planner Project**
@@ -33,6 +35,8 @@ This project is a C++ course planner that uses a hash table to store and organiz
 
 [View Enhancement Two](Enhancement-Two/)
 
+[Read Enhancement Two Narrative](Enhancement-Two/EXACT-NARRATIVE-TWO-FILENAME.pdf)
+
 ### Enhancement Three: Databases
 
 **DAD 220 Database Project**
@@ -40,3 +44,5 @@ This project is a C++ course planner that uses a hash table to store and organiz
 This project uses MySQL to manage and organize customer, order, and return information. For this enhancement, I added SQL queries that combine information from multiple tables, summarize customer purchases, and provide more useful database results.
 
 [View Enhancement Three](Enhancement-Three/)
+
+[Read Enhancement Three Narrative](Enhancement-Three/EXACT-NARRATIVE-THREE-FILENAME.pdf)
