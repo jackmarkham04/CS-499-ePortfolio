@@ -13,7 +13,7 @@ This video is my code review for the CS 499 Computer Science Capstone. I review 
 
 This self-assessment discusses my growth throughout the Computer Science program at Southern New Hampshire University. It highlights the technical skills I have developed, my experience working on different programming projects, and how my coursework has prepared me for a career in software engineering.
 
-[Read My Professional Self-Assessment](Professional%20Self%20Assessment.docx)
+[Read My Professional Self-Assessment](Professional%20Self%20Assessment.pdf)
 
 ## Project Enhancements
 
