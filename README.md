@@ -3,17 +3,17 @@
 
 Southern New Hampshire University
 
-## Code Review
-
-This video is my code review for the CS 499 Computer Science Capstone. I review my selected projects from CS 340, CS 300, and DAD 220, explain their original functionality, and discuss the enhancements planned for my final ePortfolio.
-
-[Watch My CS 499 Code Review](https://youtu.be/bWUbMq5sN3s)
-
 ## Professional Self-Assessment
 
 This self-assessment discusses my growth throughout the Computer Science program at Southern New Hampshire University. It highlights the technical skills I have developed, my experience working on different programming projects, and how my coursework has prepared me for a career in software engineering.
 
 [Read My Professional Self-Assessment](Professional%20Self%20Assessment.pdf)
+
+## Code Review
+
+This video is my code review for the CS 499 Computer Science Capstone. I review my selected projects from CS 340, CS 300, and DAD 220, explain their original functionality, and discuss the enhancements planned for my final ePortfolio.
+
+[Watch My CS 499 Code Review](https://youtu.be/bWUbMq5sN3s)
 
 ## Project Enhancements
 
